@@ -1,0 +1,49 @@
+#header {
+  color: rgba(175, 47, 47, 0.15);
+  margin: 0;
+  padding: 0;
+  font-size: 60px;
+}
+
+.list-bg {
+  background-color: white;
+}
+
+.list-style {
+  list-style: none;
+}
+
+.input-fields-border {
+  border: 1px solid rgb(216, 216, 216);
+}
+
+.input-fields {
+  height: 40px;
+  border: 0px;
+}
+
+.buttons {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  color: white;
+  border: 0px;
+}
+
+.buttons:hover {
+  color: rgba(58, 16, 16, 0.52);
+  font-weight: bold;
+}
+
+.input-fields:focus {
+  outline: none;
+}
+
+.checkbox-outline {
+  background-color: #fff;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
